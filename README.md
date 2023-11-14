@@ -2,13 +2,16 @@
  
 MLOps Research Paper Summary for studying.
 
-[Diffusione Research Papers Summary](https://rose-palm-6f0.notion.site/2023-Research-Papers-8b6a969a5690403387b0dce83dd23f30?pvs=4)
-[MLOps Research Papers Summary]
+[Diffusione Research Papers Summary](https://rose-palm-6f0.notion.site/2023-Research-Papers-8b6a969a5690403387b0dce83dd23f30?pvs=4) <br>
+[MLOps Research Papers Summary](https://rose-palm-6f0.notion.site/MLOps-ca6399f6705e4fa7a145a45d04a2a140?pvs=4)
 
 ## Overview
+### Concept
+[Machine Learning Operations (MLOps): Overview, Definition, and Architecture](https://rose-palm-6f0.notion.site/1-Machine-Learning-Operations-MLOps-Overview-Definition-and-Architecture-5da1458e9ea0401b94a6c65524c645ab?pvs=4) <br>
+[Link](https://arxiv.org/abs/2205.02302)
+> This paper provides the concepts about MLOps. For MLOps, authors reseach about Pricibles, Components, Roles and Architecture. It is a good introductory guide to study the overall understanding of MLOps, the necessary tools, and roles.
 
 ## To-Do
-[Machine Learning Operations (MLOps): Overview, Definition, and Architecture](https://arxiv.org/abs/2205.02302)
 
 [Who Needs MLOps: What Data Scientists Seek to Accomplish and How Can MLOps Help?
 ](https://arxiv.org/abs/2103.08942)
